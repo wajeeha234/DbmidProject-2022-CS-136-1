@@ -1,0 +1,206 @@
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\b.exe.config
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\b.exe
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\b.pdb
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\stdole.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.csproj.AssemblyReference.cache
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.AddStu.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.Assessment.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.CLO_S.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.Form1.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.ManageAttendence.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.Properties.Resources.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.Rubric.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.Rubric_Level.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.SearchStu.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.StuDelete.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.Student.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.StuUpdate.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.csproj.GenerateResource.cache
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.csproj.CoreCompileInputs.cache
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.csproj.CopyComplete
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.exe
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.pdb
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.AssesmentComponenet.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.StudentResult.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.barcodes.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.commons.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.forms.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.io.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.kernel.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.layout.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.pdfa.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.pdfua.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.sign.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.svg.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itextsharp.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Buffers.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Memory.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.ValueTuple.dll
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.barcodes.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.commons.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.forms.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.io.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.kernel.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.layout.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.pdfa.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.pdfua.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.sign.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itext.svg.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\itextsharp.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Buffers.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Memory.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\bin\Debug\System.ValueTuple.xml
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.Reports.resources
+C:\Users\Wajeeha\Desktop\DbMidProject\b\b\obj\Debug\b.ViewAttendance.resources
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\b.exe.config
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\b.exe
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\b.pdb
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\BouncyCastle.Crypto.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.Shared.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.barcodes.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.bouncy-castle-connector.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.commons.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.forms.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.io.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.kernel.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.layout.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.pdfa.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.pdfua.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.sign.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.styledxmlparser.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.svg.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itextsharp.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Options.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Newtonsoft.Json.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Buffers.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Memory.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Numerics.Vectors.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.ValueTuple.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\stdole.dll
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.barcodes.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.bouncy-castle-connector.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.commons.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.forms.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.io.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.kernel.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.layout.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.pdfa.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.pdfua.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.sign.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.styledxmlparser.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itext.svg.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\itextsharp.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Options.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\Newtonsoft.Json.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Buffers.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Memory.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Numerics.Vectors.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\4TH SEM\DB\PROJECT\b\b\bin\Debug\System.ValueTuple.xml
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.csproj.AssemblyReference.cache
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.AddStu.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.AssesmentComponenet.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Assessment.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.CLO_S.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Form1.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.ManageAttendence.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Properties.Resources.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Reports.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Rubric.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Rubric_Level.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.SearchStu.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.StuDelete.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Student.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.StudentResult.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.StuUpdate.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.ViewAttendance.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.csproj.GenerateResource.cache
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.csproj.CoreCompileInputs.cache
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.csproj.CopyComplete
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.exe
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.pdb
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.StuRes.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Evaluation.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Result.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.AssessmentResReport.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.clowise.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.mainForm.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.Attendance.resources
+E:\4TH SEM\DB\PROJECT\b\b\obj\Debug\b.RubricC.resources
